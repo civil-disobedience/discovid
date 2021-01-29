@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^2.8.5",
+    "canvas": "^2.6.1",
+    "dotenv": "^8.2.0",
+    "face-api.js": "^0.22.2",
+    "node-tradfri-client": "^2.1.8",
+    "signale": "^1.4.0"
+  }
+}
